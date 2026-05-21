@@ -1,17 +1,17 @@
 # Hi, I'm Nischal 👋
 
-Self-taught developer and fresh high school graduate from Kathmandu, Nepal 🇳🇵  
-I build real projects to learn — not just tutorials.
+Self-taught backend developer and fresh high school graduate from Kathmandu, Nepal 🇳🇵  
+I learn by building real projects — not just tutorials.
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 High school graduate, currently pursuing development skills independently
+- 🎓 High school graduate (Science stream — Physics & Mathematics) 2026
 - 🔭 Built and deployed a full **Hospital Management System** with Django
-- 🌱 Currently learning **REST APIs, deployment, and React**
-- 💼 Actively looking for **Django internships and junior developer roles**
-- 📍 Based in **Kathmandu, Nepal** — open to remote work
+- 🌱 Currently learning **React, Docker, CI/CD**
+- 💼 Looking for **Django internships and junior backend roles**
+- 📍 **Kathmandu, Nepal** — open to remote work
 
 ---
 
@@ -26,53 +26,45 @@ I build real projects to learn — not just tutorials.
 
 ### Frameworks & Tools
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![DRF](https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-### C++ Knowledge
-Functions · Structures · Pointers · File Handling · OOP basics
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ---
 
-## 📂 Featured Project
+## 📂 Projects
 
 ### 🏥 Hospital Management System
-> Full-stack web application built with Django from scratch
+> Full-stack web app — first Django project, built in one week
 
-A complete hospital management system with 8 modules, role-based dashboards, a REST API, and deployed live on Render with PostgreSQL.
+- 8 modules: patients, doctors, staff, appointments, prescriptions, inventory, notifications
+- Role-based auth — separate dashboards for doctors, patients, staff
+- REST API with DRF + JWT authentication
+- Swagger API docs, filtering, search, pagination
+- 28 pytest tests, Docker, GitHub Actions CI/CD
+- Deployed on Render with PostgreSQL
 
-**What it does:**
-- 👤 Patient registration and management
-- 🩺 Doctor profiles with specialties, qualifications and shifts
-- 📅 Appointment booking and cancellation
-- 💊 Prescription management with dosage and frequency
-- 📦 Inventory tracking with low stock alerts
-- 🔔 Automatic medication reminders and refill notifications
-- 🔐 Role-based login — separate dashboards for doctors, patients and staff
-- 🌐 REST API built with Django REST Framework
+**Tech:** Python · Django · PostgreSQL · DRF · JWT · Bootstrap · Docker · pytest
 
-**Tech used:** Python · Django · PostgreSQL · Bootstrap 5 · DRF · Git · Render
+[![Live](https://img.shields.io/badge/🌐_Live-4CAF50?style=for-the-badge)](https://hospital-django-dnk3.onrender.com)
+[![Code](https://img.shields.io/badge/📂_Code-181717?style=for-the-badge&logo=github)](https://github.com/Nick0099/hospital-django)
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-4CAF50?style=for-the-badge)](https://hospital-django-dnk3.onrender.com)
-[![GitHub](https://img.shields.io/badge/📂_Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/Nick0099/hospital-django)
+---
+
+### 🛒 E-Commerce API *(coming soon)*
+> Pure DRF API — products, cart, orders, payments
+> React frontend consuming the API
 
 ---
 
 ## 📜 Certifications
 
-| Certification | Issuer | Skills |
-|---|---|---|
-| Responsive Web Design | freeCodeCamp | HTML, CSS, Flexbox, Grid |
-
----
-
-## 📊 GitHub Stats
-
-![Nischal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nick0099&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nick0099&layout=compact&theme=tokyonight&hide_border=true)
+| Certification | Issuer |
+|---|---|
+| Responsive Web Design | freeCodeCamp |
 
 ---
 
@@ -80,33 +72,32 @@ A complete hospital management system with 8 modules, role-based dashboards, a R
 
 | What | How | Status |
 |---|---|---|
-| Python | 100 Days of Code — Code With Harry | ✅ Complete |
-| Django | Built Hospital Management System | ✅ Complete |
-| Responsive Web Design | freeCodeCamp certification | ✅ Complete |
-| C++ | Functions, structures, pointers, file handling | ✅ Complete |
-| SQL | +2 level — queries, joins, normalization | ✅ Complete |
-| REST APIs | Django REST Framework | ✅ Complete |
-| React | — | 🔄 Up next |
-| Testing | pytest-django | 🔄 Up next |
+| Python | 100 Days of Code — Code With Harry | ✅ |
+| Django + DRF | Built Hospital Management System | ✅ |
+| PostgreSQL | +2 level SQL + production deployment | ✅ |
+| Docker | Containerized HMS project | ✅ |
+| CI/CD | GitHub Actions pipeline | ✅ |
+| JWT Auth | simplejwt in HMS API | ✅ |
+| pytest | 28 tests in HMS | ✅ |
+| C++ | Functions, structures, pointers, file handling | ✅ |
+| React | — | 🔄 Next |
+| Celery + Redis | — | 🔄 Next |
 
 ---
 
-## 💼 What I'm Looking For
+## 📊 GitHub Stats
 
-I'm looking for an **internship or junior developer role** where I can:
-- Work on real Python/Django projects
-- Learn from experienced developers
-- Contribute to a team and grow fast
-
-I'm a fast learner — I built this entire hospital system from scratch while learning Django for the first time.
+![Stats](https://github-readme-stats.vercel.app/api?username=Nick0099&show_icons=true&theme=tokyonight&hide_border=true)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nick0099&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
-## 📫 Let's Connect
+## 💼 Looking For
 
-- 📧 Email: `nischalneupane45@gmail.com`
-- 💼 LinkedIn: `https://www.linkedin.com/in/nischal-neupane-716908273/`
-- 🌐 Live project: [hospital-django-dnk3.onrender.com](https://hospital-django-dnk3.onrender.com)
+Internship or junior backend role where I can work on real Python/Django projects.  
+Fast learner — built a production-grade system while learning Django for the first time.
+
+📧 nischalneupane45@gmail.com | 🌐 [hospital-django-dnk3.onrender.com](https://hospital-django-dnk3.onrender.com)
 
 ---
 
