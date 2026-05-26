@@ -1,17 +1,15 @@
 # Hi, I'm Nischal 👋
 
-Self-taught full-stack developer and fresh high school graduate from Kathmandu, Nepal 🇳🇵  
+Self-taught full-stack developer and fresh high school graduate   
 I learn by building real projects — not just tutorials.
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 High school graduate (Science stream — Physics & Mathematics) 2026
 - 🔭 Built and deployed a full **E-Commerce Platform** (Django API + React frontend)
 - 🌱 Currently learning **Celery + Redis**
 - 💼 Looking for **Django/Python internships and junior backend roles**
-- 📍 **Kathmandu, Nepal** — open to remote work
 
 ---
 
