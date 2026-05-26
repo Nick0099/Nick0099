@@ -73,9 +73,9 @@ I learn by building real projects — not just tutorials.
 - Deployed on Render with PostgreSQL
 
 **Tech:** Python · Django · PostgreSQL · DRF · JWT · Bootstrap · Docker · pytest
-
-[![Live](https://img.shields.io/badge/🌐_Live-4CAF50?style=for-the-badge)](https://hospital-django-dnk3.onrender.com)
-[![Code](https://img.shields.io/badge/🔗_Code-181717?style=for-the-badge)](https://github.com/Nick0099/hospital-django)
+[![Live](https://img.shields.io/badge/🌐_Live-4CAF50?style=for-the-badge)](https://ecommerce-frontend-xi-sage.vercel.app)
+[![Backend](https://img.shields.io/badge/🔗_Backend-181717?style=for-the-badge)](https://github.com/Nick0099/E_Commerce)
+[![Frontend](https://img.shields.io/badge/🔗_Frontend-181717?style=for-the-badge)](https://github.com/Nick0099/ecommerce-frontend)
 
 ---
 
