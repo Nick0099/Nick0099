@@ -61,7 +61,7 @@ I learn by building real projects , not just tutorials.
 
 **Tech:** JavaScript · Webpack 5 · OpenWeatherMap API · dotenv-webpack
 
-**Code:** [https://github.com/Nick0099/weather-app]
+[![Code](https://github.com/Nick0099/weather-app)
 
 ---
 
@@ -70,7 +70,7 @@ I learn by building real projects , not just tutorials.
 
 **Tech:** JavaScript · Webpack · HTML · CSS
 
-**Code:** [https://github.com/Nick0099/odin-resturant] · **Live:** [https://nick0099.github.io/odin-resturant/]
+[![Code](https://github.com/Nick0099/odin-resturant) · [![Live](https://nick0099.github.io/odin-resturant)
 
 ---
 
@@ -79,25 +79,25 @@ I learn by building real projects , not just tutorials.
 
 **Tech:** JavaScript · localStorage · HTML · CSS
 
-**Code:** [https://github.com/Nick0099/To-do-list] · **Live:** [https://nick0099.github.io/To-do-list/]
+[![Code](https://github.com/Nick0099/To-do-list) · [![Live](https://nick0099.github.io/To-do-list)
 
 ---
 
 ###  Tic-Tac-Toe
 **Tech:** JavaScript · HTML · CSS
-**Code:** [https://github.com/Nick0099/odin-tic-tac-toe] · **Live:** [https://nick0099.github.io/odin-tic-tac-toe/]
+[![Code](https://github.com/Nick0099/odin-tic-tac-toe) · [![Live](https://nick0099.github.io/odin-tic-tac-toe)
 
 ### Etch-a-Sketch
 **Tech:** JavaScript · HTML · CSS
-**Code:** [https://github.com/Nick0099/odin-etch-a-sketch] · **Live:** [https://nick0099.github.io/odin-etch-a-sketch/]
+[![Code](https://github.com/Nick0099/odin-etch-a-sketch) · [![Live](https://nick0099.github.io/odin-etch-a-sketch)
 
 ### Calculator
 **Tech:** JavaScript · HTML · CSS
-**Code:** [https://github.com/Nick0099/odin-calculator] · **Live:** [https://nick0099.github.io/odin-calculator/]
+[![Code](https://github.com/Nick0099/odin-calculator) · [![Live](https://nick0099.github.io/odin-calculator)
 
 ### Rock Paper Scissors
 **Tech:** JavaScript · HTML 
-**Code:** [https://github.com/Nick0099/odin-rock-paper-scissors ]
+[![Code](https://github.com/Nick0099/odin-rock-paper-scissors)
 
 ---
 
