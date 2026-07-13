@@ -138,7 +138,7 @@ Junior Software engineer,full-stack or backend remote role where I can contribut
 Fast learner , built a production-grade backend system while learning Django for the first time.
 
  nischalneupane45@gmail.com
- [![linkedIn](https://img.shields.io/badge/🌐_Live-4CAF50?style=for-the-badge)](https://www.linkedin.com/in/nischal-neupane-716908273/)
+ [![linkedIn]([https://img.shields.io/badge/🌐_Live-4CAF50?style=for-the-badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=YOUR_LINKEDIN_URL))](https://www.linkedin.com/in/nischal-neupane-716908273/)
  
 
 ---
