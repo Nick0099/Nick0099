@@ -85,7 +85,7 @@ I learn by building real projects , not just tutorials.
 
 ###  Tic-Tac-Toe
 **Tech:** JavaScript · HTML · CSS
-[![Code](https://github.com/Nick0099/odin-tic-tac-toe) · [![Live](https://img.shields.io/badge/🌐_Live-4CAF50?style=for-the-badge)](https://nick0099.github.io/odin-tic-tac-toe)
+[![Code](https://img.shields.io/badge/🔗_Code-181717?style=for-the-badge)](https://github.com/Nick0099/odin-tic-tac-toe) · [![Live](https://img.shields.io/badge/🌐_Live-4CAF50?style=for-the-badge)](https://nick0099.github.io/odin-tic-tac-toe)
 
 ### Etch-a-Sketch
 **Tech:** JavaScript · HTML · CSS
