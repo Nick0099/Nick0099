@@ -70,7 +70,7 @@ I learn by building real projects , not just tutorials.
 
 **Tech:** JavaScript · Webpack · HTML · CSS
 
-[![Code](https://github.com/Nick0099/odin-resturant) · [![Live](https://nick0099.github.io/odin-resturant)
+[![Code]](https://github.com/Nick0099/odin-resturant) · [![Live]](https://nick0099.github.io/odin-resturant)
 
 ---
 
