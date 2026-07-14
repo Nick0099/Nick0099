@@ -56,12 +56,13 @@ I learn by building real projects , not just tutorials.
 
 ---
 
-###  Weather App *(in progress)*
+###  Weather App 
 > Built with webpack 5 , src/dist structure, OpenWeatherMap API integration, environment variables via dotenv-webpack
 
 **Tech:** JavaScript · Webpack 5 · OpenWeatherMap API · dotenv-webpack
 
 [![Code](https://img.shields.io/badge/🔗_Code-181717?style=for-the-badge)](https://github.com/Nick0099/weather-app)
+[![Live](https://img.shields.io/badge/🌐_Live-4CAF50?style=for-the-badge)](https://nick0099.github.io/weather-app/)
 
 ---
 
